@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Instagram_Story_1">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Instagram_Story_1" data-name="Instagram Story – 1" clip-path="url(#clip-Instagram_Story_1)">
+    <rect width="512" height="512" fill="#1f80d3"/>
+    <g id="_01-home" data-name="01-home" transform="translate(67.068 77.939)">
+      <g id="glyph" transform="translate(60 4)">
+        <path id="Path_11" data-name="Path 11" d="M188.953,4A129.1,129.1,0,0,0,60,132.953c0,34.541,20.927,78.9,62.2,131.833A701.213,701.213,0,0,0,183.5,333.4a7.9,7.9,0,0,0,10.914,0,701.2,701.2,0,0,0,61.3-68.618c41.272-52.935,62.2-97.292,62.2-131.833A129.1,129.1,0,0,0,188.953,4Zm0,221.062a92.109,92.109,0,1,1,92.109-92.109A92.211,92.211,0,0,1,188.953,225.062Z" transform="translate(-60 -4)" fill="#fff"/>
+        <path id="Path_12" data-name="Path 12" d="M285,154.687l-57.9-52.634a7.9,7.9,0,0,0-10.622,0l-57.9,52.634a7.9,7.9,0,0,0-1.467,9.895,8.113,8.113,0,0,0,7.013,3.842h7.66v50a7.9,7.9,0,0,0,7.9,7.9h18.422a7.9,7.9,0,0,0,7.9-7.9V189.478a7.9,7.9,0,0,1,7.9-7.9h15.79a7.9,7.9,0,0,1,7.9,7.9v28.949a7.9,7.9,0,0,0,7.9,7.9H263.9a7.9,7.9,0,0,0,7.9-7.9v-50h7.659a8.113,8.113,0,0,0,7.013-3.842A7.9,7.9,0,0,0,285,154.687Z" transform="translate(-92.839 -36.839)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
